@@ -45,12 +45,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <None Include="CustomTheme.vstheme">
-      <SubType>Designer</SubType>
-    </None>
     <None Include="source.extension.vsixmanifest">
       <SubType>Designer</SubType>
     </None>
+    <None Include="Theresa.vstheme" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
